@@ -1,0 +1,2 @@
+# Szkrypciochy
+Szkrypciochy kodowe
