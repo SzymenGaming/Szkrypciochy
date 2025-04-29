@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #367ff5;
+    width: 100%;
+    height: 75px;
+    text-align: center;
+    padding-top: 15px;
+    font-family: monospace;
+}
+h1 {
+    font-size: 50px;
+}
+p {
+    text-align: center;
+    font-family: Georgia;
+    font-size: 300%;
+    margin-top: 10%;
+}
+#sekcja_guzikowa {
+    background-color: #11acd2;
+    width: 100%;
+    height: 125px;
+    text-align: center;
+}
+#guzior {
+    width: 75%;
+    height: 125px;
+    background-color: #5678F5;
+    color: #47DAF5;
+    border: 2px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: background 0.2s ease-in;
+    transition: color 0.2s ease-in;
+    border-radius: 25px;
+    font-size: 400%;
+    text-wrap: wrap;
+    cursor: pointer;
+}
+#guzior:hover {
+    background-color: #367ff5;
+    color: darkblue;
+}
+#guzior2 {
+    background-color: aquamarine;
+    height: 55px;
+    cursor: pointer;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 15%;
+    color: rgb(68, 29, 175);
+    transition: background 0.2s ease-in;
+    transition: color 0.2s ease-in;
+    visibility: hidden;
+}
+#guzior2:hover {
+    color: aquamarine;
+    background-color: rgb(68, 29, 175);
+}
+#guzior3 {
+    background-color: rgb(68, 29, 175);
+    height: 55px;
+    cursor: pointer;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 15%;
+    color: aquamarine;
+    transition: background 0.2s ease-in;
+    transition: color 0.2s ease-in;
+    margin-left: -15%;
+}
+#guzior3:hover {
+    color: rgb(68, 29, 175);
+    background-color: aquamarine;
+}
+#blok_gl {
+    width: 100%;
+    display: inline-flex;
+}
+#blok_l {
+    background-color: #0F43FC;
+    width: 65%;
+    height: 400px;
+}
+#blok_p {
+    background-color: #8733F5;
+    width: 35%;
+    height: 400px;
+}
+#sekcja_pod {
+    background-color: #407df8;
+    text-align: center;
+    width: 100%;
+    height: 75px;
+    margin-top: -18px;
+    margin-bottom: 5px;
+}
+img {
+    width: 80%;
+    height: 350px;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+@media only screen and (max-width: 850px) {
+    header {
+        height: 125px;
+    }
+    #sekcja_guzikowa {
+        height: 170px;
+    }
+    #guzior {
+        height: 170px;
+    }
+    p {
+        font-size: 200%;
+    }
+}
+@media only screen and (max-width: 550px) {
+    header {
+        height: 200px;
+    }
+    #sekcja_guzikowa {
+        height: 200px;
+    }
+    #guzior {
+        height: 200px;
+    }
+    #guzior2 {
+        width: 25%;
+    }
+    #guzior3 {
+        width: 25%;
+    }
+    p {
+        font-size: 150%;
+    }
+}

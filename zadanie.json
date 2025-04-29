@@ -1,0 +1,28 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"wyzwania"},
+{"type":"table","name":"zadanie","database":"wyzwania","data":
+[
+{"Wyzwania":"Wykonaj 10 pompek"},
+{"Wyzwania":"Wykonaj 25 przysiadów"},
+{"Wyzwania":"Wykonaj 15 pompek"},
+{"Wyzwania":"Wykonaj 35 przysiadów"},
+{"Wyzwania":"Zadzwoń pogadać do kolegi"},
+{"Wyzwania":"Wyjdź z psem na dwór"},
+{"Wyzwania":"Wyjdź ze znajomymi na dwór"},
+{"Wyzwania":"Połóż się spać odrobinkę wcześniej"},
+{"Wyzwania":"Nie oglądaj dzisiaj TikToka"},
+{"Wyzwania":"Nie oglądaj dzisiaj telewizji"},
+{"Wyzwania":"Ogranicz użytkowanie telefonu do maksymalnie 1 godziny"},
+{"Wyzwania":"Ogranicz użytkowanie komputera do maksymalnie 2 godzin"},
+{"Wyzwania":"Daj całusa jednemu ze swoich najbliższych"},
+{"Wyzwania":"Skomplementuj kogoś"},
+{"Wyzwania":"Spróbuj wykonać planka przez co najmniej 2 minuty"},
+{"Wyzwania":"Wykonaj porządki w domu"},
+{"Wyzwania":"Przeczytaj wiadomości ze świata"},
+{"Wyzwania":"Wykonaj 28 pompek"},
+{"Wyzwania":"Wykonaj 40 przysiadów"},
+{"Wyzwania":"Nie graj w żadną grę Video przez cały dzień"}
+]
+}
+]
